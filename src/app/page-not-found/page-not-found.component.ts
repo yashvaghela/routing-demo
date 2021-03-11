@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
     <P>
       PAGE NOT FOUND
     </P>
+    <hr>
   `,
   styles: [
   ]
